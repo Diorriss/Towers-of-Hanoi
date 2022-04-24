@@ -1,5 +1,5 @@
 ![Towers_of_Hanoi_Banner](https://user-images.githubusercontent.com/97734706/164969792-7053459b-982b-42ec-b5e7-f49912957f0f.png)
-
+# Description
 Simulates all the steps needed to solve the Towers of Hanoi puzzle
 
 ## How to use
