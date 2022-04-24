@@ -14,7 +14,8 @@ Open Towers-of-Hanoi.py and copy code
 
 ## The Discs
 ![Carbon_Discs](https://user-images.githubusercontent.com/97734706/164969830-35a38c11-6d1d-438f-917f-6b192c27b886.png)
-- The Discs print out their movement number (from step 0 to 2) 0-0-2.
+- The Discs print out their movement number (from step 0 to 2) 
+  - 0-0-2 is the output for the third step. Check the transition between output 3 to 4
 <img width="172" alt="Disc_Steps" src="https://user-images.githubusercontent.com/97734706/164969921-0767f6d7-99bb-4bab-a810-ad8c730dd5b0.PNG">
   - Once the first disc reaches step 2, it carries of to the next disc and resets to 0 which would equal to 0-1-0   
  
