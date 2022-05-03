@@ -3,7 +3,7 @@
 Simulates all the steps needed to solve the Towers of Hanoi puzzle
 
 ## How to use
-Open Towers-of-Hanoi.py and copy code
+You can either download and use, or copy and paste the code from Towers-of-Hanoi.py 
 
 # How it simulates
 
